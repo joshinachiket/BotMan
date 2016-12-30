@@ -14,17 +14,17 @@ Heroku is a cloud Platform-as-a-Service (PaaS) app. It supports several programm
 
 <br>
 ##URL:
-http://54.153.11.25:443/
+EC2 Hosted Service AT: http://54.153.11.25:443/
 
 ## Project Deliverables
 
-In the design, we are thinking of devising a simple website, which we will host as a service that will guide a user through steps in designing his own slack bot.
-The website will iteratively ask questions that we will use in the program and create the bot.
+A simple website, which we is hosted as a service on EC2 that will guide a user through steps in designing his own slack bot.
 
 [Presentation Slides] (Documents/Project Presentation/Presentation.pdf) <br/>
 [Project Report] (Documents/Project Report/ProjectReport.pdf)
 
 #####• Introductory Video
+
 <a href="https://www.youtube.com/watch?v=Vt0EBIN8PVo"><img src="http://i3.ytimg.com/vi/Vt0EBIN8PVo/hqdefault.jpg" 
 alt="Introductory Video" width="240" height="180" border="10" /></a>
 
@@ -35,20 +35,11 @@ alt="Demo and Directions Video" width="240" height="180" border="10" /></a>
 
 ##	Technology Stack
 
-We are using Python, node.JS, JavaScript, Slack API, Botkit, Git, Angular.JS, HTML and CSS.
-
-##	Need and Advantages
-
-This is a custom framework which will help many people who are new or are unaware of programming concepts but want to use Slack and make a bot.
+node.JS, JavaScript, Slack API, Botkit, Git, Angular.JS, HTML and CSS.
 
 ##ARCHITECTURAL FLOW DIAGRAM
 
 ![arch](https://cloud.githubusercontent.com/assets/15001254/21296495/f335371c-c521-11e6-9d63-a4221c57c268.png)
-
-
-##USER STORIES
-
-An office work group manager has to maintain list of the things that need to be bought for the meeting. This can be done by adding an inventory management bot to the slack channel. This bot could act as a manager and record the requests for stationary products. While discussing on the channel, if any employee thinks of something to be bought then instead of writing down in a separate notepad and then saving it somewhere, he can just request it over the channel and the bot could record them. This will reduce the overhead of physically recording things or creating a portal where the employee has to raise a request for the same.
 
 ##USER GUIDE
 ######STEPS TO GET BOTMAN WORKING ON LOCALHOST-
@@ -78,14 +69,21 @@ The current cloud repository controls available to a user are limited to creatin
 
 ##CONCLUSION
 While bots have long lived in the quieter corners of the Internet, apps like Slack (and WhatsApp, Kik, WeChat and Tinder) are pushing them into the mainstream. A framework like BotMan would give an impetus to the growth and would find its foothold in the market, assisting people to create customized bots for their personal and commercial use.
-Enthusiastic members are welcome to fork and open issues in this git directory.
+
+##LICENCE
+MIT LICENCE
+Enthusiastic members are welcome to fork and open issues in this git directory. I will definitely answer all the questions possible.
 
 ##CONTACT US AT
-- EMAIL : botman.framework@gmail.com
+- EMAIL : 
+- botman.framework@gmail.com
+- nachiket.r.joshi@gmail.com
+
+##FORKED FROM REPOSITORY AT:
+- https://github.com/SJSU272Lab/Botman
 
 
 ## Team Members
-
 
 ![Nachiket Joshi](https://avatars.githubusercontent.com/TheBloodMage?s=100) |  ![Abhishek Madan](https://avatars.githubusercontent.com/AbhishekMadan?s=100) |![Saurabh Gedam](https://avatars.githubusercontent.com/saurabhgedam?s=100)  |  ![Sagar Mane](https://avatars.githubusercontent.com/Sagar-Mane?s=100)
 :--------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------:
